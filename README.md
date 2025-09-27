@@ -39,20 +39,6 @@ This project is an **AI-powered recommendation system** designed for e-commerce 
 
 ---
 
-## 📂 Project Structure
-```
-├── index.html          # Homepage
-├── rating.html         # Rating prediction page
-├── similar.html        # Similar products page
-├── trending.html       # Trending products page
-├── style.css           # CSS styles
-├── script.js           # Frontend JS logic
-├── recommender_utils.py # ML models and recommendation logic
-├── app.py              # Flask backend
-├── data/               # Dataset folder
-└── models/             # Saved ML models & preprocessing objects
-```
-
 ---
 
 ## 🚀 How to Run the Project
@@ -88,8 +74,10 @@ This project is an **AI-powered recommendation system** designed for e-commerce 
 ---
 
 ## 👨‍💻 Contributors
-- Loga Dharinish  
-- Team Members (if applicable)
+1) LOGA DHARINISH  V
+2)ASHISH M MENON
+3)KAVIYA B
+4)CHANDHINI
 
 ---
 
